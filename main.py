@@ -4,21 +4,45 @@
 # Problem 1
 """
 1. first_name, is a valid name in python, because it is snake case, which is when we use '_' instead of spaces between words.
-2. 
-3.
-Your solution goes here
+2. `2nd_name` is an invalid name, because it begins with a number instead of a letter or underscore.
+3. `age` is a valid name, because it only contains alphanumeric characters and is not a reserved word.
+4. `total_amount` is a valid name, because it is in snake case and does not contain any special characters.
+5. `while` is an invalid name, because it is a reserved word.
+6. `Student` is a valid name, because it only contains alphanumeric characters. BUT, it is case sensitive, so it would be different from 'student'.
+7. `my-variable` is an invalid name, because it contains the special character '-'. Instead, 'my_variable' should be used.
+8. `for` is an invalid name, because it is a reserved word.
+9. `_temp` is a valid name, because it begins with an underscore and contains only alphanumeric characters and underscores.
+10. `value#` is an invalid name, because it contains the special character '#'.
 
 
 """
 # Problem 2
 """
-Your solution goes here
+1. `calculate_total` is a valid name, because it is in snake case and otherwise only contains alphanumeric characters.
+2. `3rd_function` is an invalid name, because it begins with a number when only letters or underscores are permitted.
+3. `print_values` is a valid name, because it is in snake case and does not contain any special characters.
+4. `find-item` is an invalid name, because it contains the special character '-'. Instead, 'find_item' should be used.
+5. `def` is an invalid name, because it is a reserved word in python.
+6. `updateProfile` is a valid name, because it does not contain any special characters. BUT, it is important to note that it is case-sensitive.
+7. `my_function` is a valid name, because it only contains alphanumeric characters and underscores.
+8. `try` is an invalid name, because it is a reserved word in python.
+9. `init_data` is a valid name, because it is in snake case and does not contain any special characters.
+10. `value@function` is an invalid name, because it contains the special character '@'.
 
 
 """
 # Problem 3
 """
-Your solution goes here
+1.
+2.
+3.
+4.
+5.
+6.
+7.
+8.
+9.
+10.
 
 
 """
