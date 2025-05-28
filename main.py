@@ -33,16 +33,16 @@
 """
 # Problem 3
 """
-1. `True and False` is a valid Boolean expression, which evaluates whether two variables (for example A and B) are true or false respectively. (If A is True and B is False and vice versa, the expression is True).
-2. `5 > 3 or "apple" < "banana"` 
-3. `not 10 <= 20`
-4. `True or 5 = 4`
-5. `"apple" != "orange" and 5`
-6. `3 > 5 not True`
-7. `False == (3 > 4)`
-8. `10 <= "10"`
-9. `True or not False`
-10. `5 and or 4`
+1. `True and False` is a valid Boolean expression, and will return False.
+2. `5 > 3 or "apple" < "banana"` is a valid expression, which will return True. 5 is greater than 3, and 'apple' occurs before 'banana' in the dictionary.
+3. `not 10 <= 20` is a valid Boolean expression, and will return False because 10 <= 20 is True.
+4. `True or 5 = 4` is not a valid expression, because the '==' operator is needed for comparison.
+5. `"apple" != "orange" and 5` is a valid expression, and will return 5. The first portion is True, because the strings are not identical.
+6. `3 > 5 not True` is not a valid expression, because the 'not' operand is misused.
+7. `False == (3 > 4)` is a valid expression, and will return True because 3 > 4 is False, thus being equivalent to False.
+8. `10 <= "10"` is not valid, because it is comparing an integer, 10, and a string, '"10"'.
+9. `True or not False` is a valid expression, because True and not False are the same. It will return True.
+10. `5 and or 4` is an invalid Boolean expression, because there is no truthiness/falsiness to be evaluated.
 
 
 """
