@@ -33,16 +33,16 @@
 """
 # Problem 3
 """
-1.
-2.
-3.
-4.
-5.
-6.
-7.
-8.
-9.
-10.
+1. `True and False` is a valid Boolean expression, which evaluates whether two variables (for example A and B) are true or false respectively. (If A is True and B is False and vice versa, the expression is True).
+2. `5 > 3 or "apple" < "banana"` 
+3. `not 10 <= 20`
+4. `True or 5 = 4`
+5. `"apple" != "orange" and 5`
+6. `3 > 5 not True`
+7. `False == (3 > 4)`
+8. `10 <= "10"`
+9. `True or not False`
+10. `5 and or 4`
 
 
 """
